@@ -1,0 +1,13 @@
+each number can be written in binary form
+
+bit manipulation means to check one by one/ bit by bit.
+
+
+there are 7 bitwise operators.
+1 bitwise and &
+2 bitwise or |
+3 bitwise xor
+4 " complement
+5 left shift
+6 right shift
+7 zero fill right shift
